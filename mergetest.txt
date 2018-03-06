@@ -1,3 +1,5 @@
 testing merging
 
-This is the text in testing branch to be merge w master.
+
+Line in Master
+
