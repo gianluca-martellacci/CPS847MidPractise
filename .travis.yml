@@ -4,7 +4,7 @@ python:
 script:
   - pytest test.py
 
-after_success:
+
  
 deploy:
   provider: s3
