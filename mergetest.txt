@@ -1,0 +1,3 @@
+testing merging
+
+THIS line will create the conflict.
