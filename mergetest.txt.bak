@@ -1,7 +1,0 @@
-testing merging
-
-<<<<<<< HEAD
-THIS line will create the conflict because im adding text here, this is the test on master. This is the line on the new branch
-=======
-THIS line will create the conflict because im adding text here, this is the text on branch to merge. This is the line on the new branch
->>>>>>> testingbranch2
