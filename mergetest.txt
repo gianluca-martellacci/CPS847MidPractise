@@ -1,6 +1,4 @@
 testing merging
 
 
-Line in Master
-
-Mthis sohuld close issue 
+LINE In MASTER
